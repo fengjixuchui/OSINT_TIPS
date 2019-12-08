@@ -174,9 +174,10 @@ http://www.isearch.com/
 
 
 
-# TIP:-30- this is a free search engine that allow you to find people by their name,phone number,email,website, photo,and so on:
+# TIP:-30- Default Password Lookup:
 
-http://wink.com/
+
+http://www.fortypoundhead.com/tools_dpw.asp
 
 
 
