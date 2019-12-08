@@ -1,6 +1,6 @@
 # THIS REPOSITORY CONTAIN  100 OSINT TIPS.
 # THE REPOSITORY GONNA GET DAILY UPDATES AND THE NUMBER OF TIPS WILL  GET HIGHER EVERY DAY.
-# A very useful repostory for ethical hackers & osint lovers & penetration testers & red teamers.
+# A very useful repository for ethical hackers & osint lovers & penetration testers & red teamers.
 # MORE TO COME 
 
 
