@@ -727,4 +727,28 @@ https://github.com/haccer/subjack
 
 https://who.is/
 
+
+# TIP:101- We can enumerate an HTTP target using the nikto,Nikto outputs information on the HTTPS certificate,the server banner,any security-related HTTP headers that may be missing:
+
+nikto -h https://target.com
+
+
+# TIP:-102- Reverse IP lookup,discover all the domains hosted on the target IP address:
+
+
+http://www.yougetsignal.com/tools/web-sites-on-web-server/
+
+
+# TIP:-103- Site metadata:
+
+
+http://desenmascara.me
+
+
+# TIP:-104-  Collection of github dorks and helper tool to automate the process of checking dorks:
+
+
+https://github.com/techgaun/github-dorks
+
+
  
