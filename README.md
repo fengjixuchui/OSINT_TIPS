@@ -443,7 +443,7 @@ https://socialbearing.com/search/followers
 # TIP:-58- Analyze a Twitter user’s followers:
 
 
-https://moz.com/followerwonk/analyze about
+https://moz.com/followerwonk/analyze
 
 
 
