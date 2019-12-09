@@ -1,4 +1,4 @@
-# THIS REPOSITORY CONTAIN  105 OSINT TIPS.
+# THIS REPOSITORY CONTAIN  106 OSINT TIPS.
 # THE REPOSITORY GONNA GET DAILY UPDATES AND THE NUMBER OF TIPS WILL  GET HIGHER EVERY DAY.
 # A very useful repository for ethical hackers & osint lovers & penetration testers & red teamers.
 # MORE TO COME 
@@ -766,6 +766,19 @@ msf auxiliary(searchengine_subdomains_collector) > set TARGET yahoo.com
 TARGET => yahoo.com
 
 msf auxiliary(searchengine_subdomains_collector) > run
+
+
+# TIP:-106- A tool that can help detect and takeover subdomains with dead DNS records:
+
+-1-setup:
+
+go get github.com/anshumanbh/tko-subs
+
+
+-2-usage:
+
+./tkosubs -domains=subdomains.txt -data=providers-data.csv -output=results.csv
+
 
 
  
