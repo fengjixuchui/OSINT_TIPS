@@ -1,4 +1,4 @@
-# THIS REPOSITORY CONTAIN  104 OSINT TIPS.
+# THIS REPOSITORY CONTAIN  105 OSINT TIPS.
 # THE REPOSITORY GONNA GET DAILY UPDATES AND THE NUMBER OF TIPS WILL  GET HIGHER EVERY DAY.
 # A very useful repository for ethical hackers & osint lovers & penetration testers & red teamers.
 # MORE TO COME 
@@ -754,6 +754,18 @@ http://desenmascara.me
 
 
 https://github.com/techgaun/github-dorks
+
+
+# TIP:-105- Search Engine Subdomains Collector:
+
+
+msf > use auxiliary/gather/searchengine_subdomains_collector
+
+msf auxiliary(searchengine_subdomains_collector) > set TARGET yahoo.com
+
+TARGET => yahoo.com
+
+msf auxiliary(searchengine_subdomains_collector) > run
 
 
  
