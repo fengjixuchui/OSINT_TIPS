@@ -1,7 +1,12 @@
-# THIS REPOSITORY CONTAIN  100 OSINT TIPS.
+# THIS REPOSITORY CONTAIN  106 OSINT TIPS.
 # THE REPOSITORY GONNA GET DAILY UPDATES AND THE NUMBER OF TIPS WILL  GET HIGHER EVERY DAY.
 # A very useful repository for ethical hackers & osint lovers & penetration testers & red teamers.
 # MORE TO COME 
+
+## Support.
+**Your generous donations will keep me motivated.**
+
+*Paypal:* [![Donate via Paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AmmarAmerHacker)
 
 
 # TIP:-1- Directory of Malicious IPs:
@@ -438,7 +443,7 @@ https://socialbearing.com/search/followers
 # TIP:-58- Analyze a Twitter user’s followers:
 
 
-https://moz.com/followerwonk/analyze about
+https://moz.com/followerwonk/analyze
 
 
 
@@ -726,5 +731,54 @@ https://github.com/haccer/subjack
 
 
 https://who.is/
+
+
+# TIP:101- We can enumerate an HTTP target using the nikto,Nikto outputs information on the HTTPS certificate,the server banner,any security-related HTTP headers that may be missing:
+
+nikto -h https://target.com
+
+
+# TIP:-102- Reverse IP lookup,discover all the domains hosted on the target IP address:
+
+
+http://www.yougetsignal.com/tools/web-sites-on-web-server/
+
+
+# TIP:-103- Site metadata:
+
+
+http://desenmascara.me
+
+
+# TIP:-104-  Collection of github dorks and helper tool to automate the process of checking dorks:
+
+
+https://github.com/techgaun/github-dorks
+
+
+# TIP:-105- Search Engine Subdomains Collector:
+
+
+msf > use auxiliary/gather/searchengine_subdomains_collector
+
+msf auxiliary(searchengine_subdomains_collector) > set TARGET yahoo.com
+
+TARGET => yahoo.com
+
+msf auxiliary(searchengine_subdomains_collector) > run
+
+
+# TIP:-106- A tool that can help detect and takeover subdomains with dead DNS records:
+
+-1-setup:
+
+go get github.com/anshumanbh/tko-subs
+
+
+-2-usage:
+
+./tkosubs -domains=subdomains.txt -data=providers-data.csv -output=results.csv
+
+
 
  
