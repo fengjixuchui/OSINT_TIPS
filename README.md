@@ -780,5 +780,39 @@ go get github.com/anshumanbh/tko-subs
 ./tkosubs -domains=subdomains.txt -data=providers-data.csv -output=results.csv
 
 
+# TIP:-107- BreachAlarm scan the Internet for stolen password data posted by hackers & lets you know if your email & password combination has been compromised:
+
+
+https://breachalarm.com
+
+
+
+# TIP:-108- BriteVerify is an email verification platform that allows users to ensure addresses exist before sending their emails:
+
+
+https://www.briteverify.com
+
+
+
+# TIP:-109- Verify email address online using free email verification tool:
+
+
+https://verify-email.org 
+
+
+
+# TIP:-110- ThatsThem's reverse email search finds the person associated to a specific email address:
+
+
+https://thatsthem.com/reverse-email-lookup
+
+
+
+# TIP:-111- ReverseGenie provides free phone number and email reverse lookup:
+
+
+http://www.reversegenie.com
+
+
 
  
