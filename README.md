@@ -814,5 +814,20 @@ https://thatsthem.com/reverse-email-lookup
 http://www.reversegenie.com
 
 
+# TIP:-112- Sublist3r is a Python-based script that can be utilized during domain harvesting.Some companies have very unique subdomains that can't be found in common word lists. this tool  uses different "google dork" style search queries to gather subdomains .+The tool utilize APIs such as Google, Bing, Baidu, and ASK search engines. It also searches in NetCraft,Virustotal,ThreatCrowd,DNSdumpster,and reverseDNS.this  tool also performs brute force attack using a specific wordlist:
+
+
+-1-setup:
+
+git clone https://github.com/aboul3la/Sublist3r.git && sudo pip install dnspython
+
+
+-2-usage:
+
+python sublist3r.py -d target.com -o results.txt
+
+
+
+
 
  
