@@ -827,6 +827,20 @@ git clone https://github.com/aboul3la/Sublist3r.git && sudo pip install dnspytho
 python sublist3r.py -d target.com -o results.txt
 
 
+# TIP:-113- we can use email addresses in:
+
+-1-launching brute-force attack against:
+
+-admin panel page 
+
+-websites login fields
+
+-2-launching a phishing attack (against employees,random targets,specific person)
+
+-3-password spraying attack
+
+-4-get in to inside the company by searching for leaked info related to email addresses gathered,,,,,,,,,,,,,,,,,,,,,,etc
+
 
 
 
