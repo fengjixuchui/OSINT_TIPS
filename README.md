@@ -1,4 +1,4 @@
-# THIS REPOSITORY CONTAIN  106 OSINT TIPS.
+# THIS REPOSITORY CONTAIN  113 OSINT TIPS.
 # THE REPOSITORY GONNA GET DAILY UPDATES AND THE NUMBER OF TIPS WILL  GET HIGHER EVERY DAY.
 # A very useful repository for ethical hackers & osint lovers & penetration testers & red teamers.
 # MORE TO COME 
@@ -778,6 +778,69 @@ go get github.com/anshumanbh/tko-subs
 -2-usage:
 
 ./tkosubs -domains=subdomains.txt -data=providers-data.csv -output=results.csv
+
+
+# TIP:-107- BreachAlarm scan the Internet for stolen password data posted by hackers & lets you know if your email & password combination has been compromised:
+
+
+https://breachalarm.com
+
+
+
+# TIP:-108- BriteVerify is an email verification platform that allows users to ensure addresses exist before sending their emails:
+
+
+https://www.briteverify.com
+
+
+
+# TIP:-109- Verify email address online using free email verification tool:
+
+
+https://verify-email.org 
+
+
+
+# TIP:-110- ThatsThem's reverse email search finds the person associated to a specific email address:
+
+
+https://thatsthem.com/reverse-email-lookup
+
+
+
+# TIP:-111- ReverseGenie provides free phone number and email reverse lookup:
+
+
+http://www.reversegenie.com
+
+
+# TIP:-112- Sublist3r is a Python-based script that can be utilized during domain harvesting.Some companies have very unique subdomains that can't be found in common word lists. this tool  uses different "google dork" style search queries to gather subdomains .+The tool utilize APIs such as Google, Bing, Baidu, and ASK search engines. It also searches in NetCraft,Virustotal,ThreatCrowd,DNSdumpster,and reverseDNS.this  tool also performs brute force attack using a specific wordlist:
+
+
+-1-setup:
+
+git clone https://github.com/aboul3la/Sublist3r.git && sudo pip install dnspython
+
+
+-2-usage:
+
+python sublist3r.py -d target.com -o results.txt
+
+
+# TIP:-113- we can use email addresses in:
+
+-1-launching brute-force attack against:
+
+-admin panel page 
+
+-websites login fields
+
+-2-launching a phishing attack (against employees,random targets,specific person)
+
+-3-password spraying attack
+
+-4-get in to inside the company by searching for leaked info related to email addresses gathered,,,,,,,,,,,,,,,,,,,,,,etc
+
 
 
 
