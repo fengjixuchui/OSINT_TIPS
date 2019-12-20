@@ -1,4 +1,4 @@
-# THIS REPOSITORY CONTAIN  113 OSINT TIPS.
+# THIS REPOSITORY CONTAIN  114 OSINT TIPS.
 # THE REPOSITORY GONNA GET DAILY UPDATES AND THE NUMBER OF TIPS WILL  GET HIGHER EVERY DAY.
 # A very useful repository for ethical hackers & osint lovers & penetration testers & red teamers.
 # MORE TO COME 
@@ -840,6 +840,24 @@ python sublist3r.py -d target.com -o results.txt
 -3-password spraying attack
 
 -4-get in to inside the company by searching for leaked info related to email addresses gathered,,,,,,,,,,,,,,,,,,,,,,etc
+
+
+# TIP:-114- why we should collect subdomains during penetration testing & REDTEAM operations:
+
+-1- to expand your attack surface
+
+-2-Some subdomains can indicate the type of server it is (vpn,mail,internal,test).
+
+-3-Subdomains can provide information about where the target is
+hosting their servers.
+
+-4-Many website oweners may create subdomains to test new technology before applying it to the main site(beta.target.com). Such sites are insecure because they are used in the development stage and could be left open to attack.
+
+-5- may the main domain is protected AND well secured but this should not necessarily applied be applied to the subdomains
+
+-6-you may discover a subdomain that have errors that may lead to vulnerabilities(leaking info,subdomain takeovers)
+
+-7-discovering subdomains will lead to discover additional IPs ,you can port scan those subdomains and you may find some ports that should not opened that may lead to the vulnerabilities .
 
 
 
