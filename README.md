@@ -859,6 +859,8 @@ hosting their servers.
 
 -7-discovering subdomains will lead to discover additional IPs ,you can port scan those subdomains and you may find some ports that should not opened that may lead to the vulnerabilities .
 
+-8-,,,,,,,,,,,,,,,,,,,etc
+
 
 
 
